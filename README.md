@@ -5,4 +5,4 @@ Ejercicio que describe como obtener datos de internet mediante el ejemplo de fot
 
 ![img.png](img.png)
 
-
+Cambios ejercicio "Cómo agregar el repositorio y la inserción manual de dependencias"
